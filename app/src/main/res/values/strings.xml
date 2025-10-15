@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidAssessment</string>
+    <string name="choice_false">False</string>
+    <string name="choice_true">True</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="cricut_quiz">Cricut Quiz</string>
 </resources>
